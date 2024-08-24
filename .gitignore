@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# iOS build folder
+ios/
+
+# Android build folder
+android/
+
+# Specific files
+.DS_Store
+Copia de README.md
+Gemfile
+Gemfile.lock
+app.json
+babel.config.js
+gesture-handler.native.js
+index.js
+jest.config.js
+metro.config.js
+package.json
+tsconfig.json
+
+# Tests
+__tests__/
+
+
+
